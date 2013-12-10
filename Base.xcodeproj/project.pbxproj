@@ -27,6 +27,9 @@
 		4FC2DAC618563F3F00126381 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FC2DAC418563F3F00126381 /* Default-568h@2x.png */; };
 		4FC2DAC718563F3F00126381 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FC2DAC518563F3F00126381 /* Default.png */; };
 		4FC2DACC185645E100126381 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FC2DACB185645E100126381 /* Default@2x.png */; };
+		4FC2DAD618576B2B00126381 /* CFRequestManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DAD518576B2A00126381 /* CFRequestManager.m */; };
+		4FC2DAD918576B4700126381 /* CFHttpClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DAD818576B4700126381 /* CFHttpClient.m */; };
+		4FC2DADC18576B6100126381 /* CFRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DADB18576B6100126381 /* CFRequest.m */; };
 		FFDADFBDC9CC48F4B0569972 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 486B5EE9981841739CBF4BB9 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -64,6 +67,12 @@
 		4FC2DAC418563F3F00126381 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		4FC2DAC518563F3F00126381 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		4FC2DACB185645E100126381 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		4FC2DAD418576B2A00126381 /* CFRequestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFRequestManager.h; sourceTree = "<group>"; };
+		4FC2DAD518576B2A00126381 /* CFRequestManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFRequestManager.m; sourceTree = "<group>"; };
+		4FC2DAD718576B4700126381 /* CFHttpClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFHttpClient.h; sourceTree = "<group>"; };
+		4FC2DAD818576B4700126381 /* CFHttpClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFHttpClient.m; sourceTree = "<group>"; };
+		4FC2DADA18576B6100126381 /* CFRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFRequest.h; sourceTree = "<group>"; };
+		4FC2DADB18576B6100126381 /* CFRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFRequest.m; sourceTree = "<group>"; };
 		F10C41C543C843698B64270B /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -262,6 +271,8 @@
 		4FC2DAC9185640A800126381 /* Request */ = {
 			isa = PBXGroup;
 			children = (
+				4FC2DADA18576B6100126381 /* CFRequest.h */,
+				4FC2DADB18576B6100126381 /* CFRequest.m */,
 			);
 			path = Request;
 			sourceTree = "<group>";
@@ -269,6 +280,10 @@
 		4FC2DACA185640A800126381 /* Request Manager */ = {
 			isa = PBXGroup;
 			children = (
+				4FC2DAD418576B2A00126381 /* CFRequestManager.h */,
+				4FC2DAD518576B2A00126381 /* CFRequestManager.m */,
+				4FC2DAD718576B4700126381 /* CFHttpClient.h */,
+				4FC2DAD818576B4700126381 /* CFHttpClient.m */,
 			);
 			path = "Request Manager";
 			sourceTree = "<group>";
@@ -428,11 +443,14 @@
 			files = (
 				4F9CEEF118545BD500E91C38 /* main.m in Sources */,
 				4F9CEF16185462F100E91C38 /* CFAppDelegate.m in Sources */,
+				4FC2DADC18576B6100126381 /* CFRequest.m in Sources */,
 				4F9CEF17185462F100E91C38 /* CFSplashVC.m in Sources */,
 				4F9CEF1C18546A5800E91C38 /* CFViewController.m in Sources */,
 				4F9CEF1F18546A6B00E91C38 /* CFTableViewController.m in Sources */,
+				4FC2DAD918576B4700126381 /* CFHttpClient.m in Sources */,
 				4F9CEF2218546A8D00E91C38 /* CFImageView.m in Sources */,
 				4F9CEF2518546A9E00E91C38 /* CFButton.m in Sources */,
+				4FC2DAD618576B2B00126381 /* CFRequestManager.m in Sources */,
 				4F9CEF2818546AB000E91C38 /* CFLabel.m in Sources */,
 				4F9CEF2B18546ABE00E91C38 /* CFObject.m in Sources */,
 				4F9CEF2E18546AD400E91C38 /* CFTableViewCell.m in Sources */,
