@@ -30,6 +30,11 @@
 		4FC2DAD618576B2B00126381 /* CFRequestManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DAD518576B2A00126381 /* CFRequestManager.m */; };
 		4FC2DAD918576B4700126381 /* CFHttpClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DAD818576B4700126381 /* CFHttpClient.m */; };
 		4FC2DADC18576B6100126381 /* CFRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DADB18576B6100126381 /* CFRequest.m */; };
+		4FC2DAE818576C5B00126381 /* GDataXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DADF18576C5B00126381 /* GDataXMLNode.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		4FC2DAE918576C5B00126381 /* TypeMapping.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DAE118576C5B00126381 /* TypeMapping.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		4FC2DAEA18576C5B00126381 /* Util.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DAE318576C5B00126381 /* Util.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		4FC2DAEB18576C5B00126381 /* XmlHeaderHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DAE518576C5B00126381 /* XmlHeaderHelper.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		4FC2DAEC18576C5B00126381 /* XmlParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2DAE718576C5B00126381 /* XmlParser.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		FFDADFBDC9CC48F4B0569972 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 486B5EE9981841739CBF4BB9 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -73,6 +78,16 @@
 		4FC2DAD818576B4700126381 /* CFHttpClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFHttpClient.m; sourceTree = "<group>"; };
 		4FC2DADA18576B6100126381 /* CFRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFRequest.h; sourceTree = "<group>"; };
 		4FC2DADB18576B6100126381 /* CFRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFRequest.m; sourceTree = "<group>"; };
+		4FC2DADE18576C5B00126381 /* GDataXMLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GDataXMLNode.h; sourceTree = "<group>"; };
+		4FC2DADF18576C5B00126381 /* GDataXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GDataXMLNode.m; sourceTree = "<group>"; };
+		4FC2DAE018576C5B00126381 /* TypeMapping.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TypeMapping.h; sourceTree = "<group>"; };
+		4FC2DAE118576C5B00126381 /* TypeMapping.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TypeMapping.m; sourceTree = "<group>"; };
+		4FC2DAE218576C5B00126381 /* Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Util.h; sourceTree = "<group>"; };
+		4FC2DAE318576C5B00126381 /* Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Util.m; sourceTree = "<group>"; };
+		4FC2DAE418576C5B00126381 /* XmlHeaderHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XmlHeaderHelper.h; sourceTree = "<group>"; };
+		4FC2DAE518576C5B00126381 /* XmlHeaderHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XmlHeaderHelper.m; sourceTree = "<group>"; };
+		4FC2DAE618576C5B00126381 /* XmlParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XmlParser.h; sourceTree = "<group>"; };
+		4FC2DAE718576C5B00126381 /* XmlParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XmlParser.m; sourceTree = "<group>"; };
 		F10C41C543C843698B64270B /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -213,6 +228,7 @@
 		4F9CEF12185462F100E91C38 /* Externals */ = {
 			isa = PBXGroup;
 			children = (
+				4FC2DADD18576C5B00126381 /* Wonder XML */,
 			);
 			path = Externals;
 			sourceTree = "<group>";
@@ -337,6 +353,23 @@
 			path = "Track Selection";
 			sourceTree = "<group>";
 		};
+		4FC2DADD18576C5B00126381 /* Wonder XML */ = {
+			isa = PBXGroup;
+			children = (
+				4FC2DADE18576C5B00126381 /* GDataXMLNode.h */,
+				4FC2DADF18576C5B00126381 /* GDataXMLNode.m */,
+				4FC2DAE018576C5B00126381 /* TypeMapping.h */,
+				4FC2DAE118576C5B00126381 /* TypeMapping.m */,
+				4FC2DAE218576C5B00126381 /* Util.h */,
+				4FC2DAE318576C5B00126381 /* Util.m */,
+				4FC2DAE418576C5B00126381 /* XmlHeaderHelper.h */,
+				4FC2DAE518576C5B00126381 /* XmlHeaderHelper.m */,
+				4FC2DAE618576C5B00126381 /* XmlParser.h */,
+				4FC2DAE718576C5B00126381 /* XmlParser.m */,
+			);
+			path = "Wonder XML";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -442,18 +475,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F9CEEF118545BD500E91C38 /* main.m in Sources */,
+				4FC2DAE818576C5B00126381 /* GDataXMLNode.m in Sources */,
 				4F9CEF16185462F100E91C38 /* CFAppDelegate.m in Sources */,
 				4FC2DADC18576B6100126381 /* CFRequest.m in Sources */,
 				4F9CEF17185462F100E91C38 /* CFSplashVC.m in Sources */,
 				4F9CEF1C18546A5800E91C38 /* CFViewController.m in Sources */,
 				4F9CEF1F18546A6B00E91C38 /* CFTableViewController.m in Sources */,
 				4FC2DAD918576B4700126381 /* CFHttpClient.m in Sources */,
+				4FC2DAEB18576C5B00126381 /* XmlHeaderHelper.m in Sources */,
 				4F9CEF2218546A8D00E91C38 /* CFImageView.m in Sources */,
 				4F9CEF2518546A9E00E91C38 /* CFButton.m in Sources */,
 				4FC2DAD618576B2B00126381 /* CFRequestManager.m in Sources */,
+				4FC2DAEC18576C5B00126381 /* XmlParser.m in Sources */,
 				4F9CEF2818546AB000E91C38 /* CFLabel.m in Sources */,
 				4F9CEF2B18546ABE00E91C38 /* CFObject.m in Sources */,
 				4F9CEF2E18546AD400E91C38 /* CFTableViewCell.m in Sources */,
+				4FC2DAE918576C5B00126381 /* TypeMapping.m in Sources */,
+				4FC2DAEA18576C5B00126381 /* Util.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -528,8 +566,25 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Base/Base-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"\"${PODS_ROOT}/Headers\"",
+					"\"${PODS_ROOT}/Headers/AFNetworking\"",
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = "Base/Base-Info.plist";
 				LIBRARY_SEARCH_PATHS = "Pods/build/Debug-iphonesimulator";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					CoreGraphics,
+					"-framework",
+					MobileCoreServices,
+					"-framework",
+					Security,
+					"-framework",
+					SystemConfiguration,
+					"-lxml2",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -541,8 +596,25 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Base/Base-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"\"${PODS_ROOT}/Headers\"",
+					"\"${PODS_ROOT}/Headers/AFNetworking\"",
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = "Base/Base-Info.plist";
 				LIBRARY_SEARCH_PATHS = "Pods/build/Debug-iphonesimulator";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-framework",
+					CoreGraphics,
+					"-framework",
+					MobileCoreServices,
+					"-framework",
+					Security,
+					"-framework",
+					SystemConfiguration,
+					"-lxml2",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

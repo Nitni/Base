@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "GDataXMLNode.h"
+#import "XmlParser.h"
 
 @class CFSplashVC;
 
