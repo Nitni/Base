@@ -1,0 +1,1026 @@
+TBase
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Info.plist /nitin/Music\ App/Source\ code/Base/Base/Base-Info.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-C730057C901240E7942764AA.sh
+cProcessPCH /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.pch Base/Base-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.o /nitin/Music\ App/Source\ code/Base/Base/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/CFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Base normal i386
+cGenerateDSYMFile /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app.dSYM /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Base
+cCpResource Base/Resources/Images/Icon.png build/Debug-iphonesimulator/Base.app/Icon.png
+cCpResource Base/Resources/Images/Default.png build/Debug-iphonesimulator/Base.app/Default.png
+cCopyStringsFile /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/en.lproj/InfoPlist.strings Base/en.lproj/InfoPlist.strings
+cCpResource Base/Resources/Images/Icon@2x.png build/Debug-iphonesimulator/Base.app/Icon@2x.png
+cCpResource Base/Resources/Images/Default-568h@2x.png build/Debug-iphonesimulator/Base.app/Default-568h@2x.png
+cCpResource Base/Resources/Images/Default@2x.png build/Debug-iphonesimulator/Base.app/Default@2x.png
+cCompileXIB /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.xib
+cPhaseScriptExecution Copy\ Pods\ Resources /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-97608B2A07EA48699E154FE9.sh
+cTouch /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052A48C7500000000000003B5
+t1386515573
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052A48D3C00000000000001A0
+t1386515772
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052A48D5500000000005838D0
+t1386515797
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052A48D5600000000005B82A0
+t1386515798
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052A48D560000000000445870
+t1386515798
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052A48D5E0000000000355050
+t1386515806
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052A48D6F00000000002F6810
+t1386515823
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052A48D71000000000004B000
+t1386515825
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052A48D87000000000088C680
+t1386515847
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000052A48D8B00000000001BA530
+t1386515851
+s1811760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052A48D8C0000000000037620
+t1386515852
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052A48D8E00000000004848F0
+t1386515854
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052A48D9100000000001290B0
+t1386515857
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000052A48D9B00000000001081B0
+t1386515867
+s1081776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052A48DC20000000001DB9910
+t1386515906
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052A4903C00000000002B9F20
+t1386516540
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052A490AF0000000000002338
+t1386516655
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052A490B1000000000008D300
+t1386516657
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052A490B0000000000038ACB0
+t1386516656
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005062233700000000000121D0
+t1348608823
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052A490B10000000000013500
+t1386516657
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052A490B10000000000033BA0
+t1386516657
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052A490B1000000000001CFB0
+t1386516657
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052A490B1000000000001B2B0
+t1386516657
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052A490B100000000000632B0
+t1386516657
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052A490B10000000000008880
+t1386516657
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052A490B10000000000015080
+t1386516657
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052A490B100000000000230E0
+t1386516657
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052A490B1000000000000E380
+t1386516657
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052A490B10000000000087200
+t1386516657
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052A490B100000000000171A0
+t1386516657
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052A490B10000000000039C10
+t1386516657
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052A490B1000000000000B0B0
+t1386516657
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052A490B10000000000167FE0
+t1386516657
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052A490B100000000000106A0
+t1386516657
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052A490B1000000000001CE40
+t1386516657
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052A490B10000000000071040
+t1386516657
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052A490B10000000000067A10
+t1386516657
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052A490B1000000000001BAD0
+t1386516657
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052A490B10000000000088BA0
+t1386516657
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c0000000052A49163000000000000B870
+t1386516835
+s47216
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052A491640000000000005004
+t1386516836
+s20484
+
+N/nitin/Music App/Source code/Base/Base/Base-Info.plist
+c0000000052A4CD5E0000000000000491
+t1386532190
+s1169
+
+N/nitin/Music App/Source code/Base/Base/Base-Prefix.pch
+c0000000052A4CD5E0000000000000137
+t1386532190
+s311
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFButton.h
+c0000000052A4CD5E00000000000000BE
+t1386532190
+s190
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFButton.m
+c0000000052A4CD5E000000000000020C
+t1386532190
+s524
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFImageView.h
+c0000000052A4CD5E00000000000000C7
+t1386532190
+s199
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFImageView.m
+c0000000052A4CD5E0000000000000215
+t1386532190
+s533
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFLabel.h
+c0000000052A4CD5E00000000000000BB
+t1386532190
+s187
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFLabel.m
+c0000000052A4CD5E0000000000000209
+t1386532190
+s521
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFObject.h
+c0000000052A4CD5E00000000000000C8
+t1386532190
+s200
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFObject.m
+c0000000052A4CD5E00000000000000B5
+t1386532190
+s181
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewCell.h
+c0000000052A4CD5E00000000000000D3
+t1386532190
+s211
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewCell.m
+c0000000052A4CD5E000000000000025F
+t1386532190
+s607
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.h
+c0000000052A4CD5E00000000000000E5
+t1386532190
+s229
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.m
+c0000000052A4CD5E0000000000000D9E
+t1386532190
+s3486
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFViewController.h
+c0000000052A4CD5E00000000000000D6
+t1386532190
+s214
+
+N/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFViewController.m
+c0000000052A4CD5E00000000000002BF
+t1386532190
+s703
+
+N/nitin/Music App/Source code/Base/Base/Front end/CFAppDelegate.h
+c0000000052A4CD5E0000000000000175
+t1386532190
+s373
+
+N/nitin/Music App/Source code/Base/Base/Front end/CFAppDelegate.m
+c0000000052A4CD5E0000000000000972
+t1386532190
+s2418
+
+N/nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.h
+c0000000052A4CD5E00000000000000D0
+t1386532190
+s208
+
+N/nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.m
+c0000000052A4CD5E00000000000001DE
+t1386532190
+s478
+
+N/nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.xib
+c0000000052A60E900000000000000760
+t1386614416
+s1888
+
+N/nitin/Music App/Source code/Base/Base/Resources/Images/Default-568h@2x.png
+c00000000523489A00000000000079F6E
+t1379174816
+s499566
+
+N/nitin/Music App/Source code/Base/Base/Resources/Images/Default.png
+c00000000523489BD0000000000025EBD
+t1379174845
+s155325
+
+N/nitin/Music App/Source code/Base/Base/Resources/Images/Default@2x.png
+c0000000052A60E1E000000000006F86D
+t1386614302
+s456813
+
+N/nitin/Music App/Source code/Base/Base/Resources/Images/Icon.png
+c0000000052348CC80000000000002D4A
+t1379175624
+s11594
+
+N/nitin/Music App/Source code/Base/Base/Resources/Images/Icon@2x.png
+c0000000052348C500000000000008264
+t1379175504
+s33380
+
+N/nitin/Music App/Source code/Base/Base/en.lproj/InfoPlist.strings
+c0000000052A4CD5E000000000000002D
+t1386532190
+s45
+
+N/nitin/Music App/Source code/Base/Base/main.m
+c0000000052A4CD5E000000000000014F
+t1386532190
+s335
+
+N/nitin/Music App/Source code/Base/Pods/build/Debug-iphonesimulator/libPods.a
+c0000000052A6136200000000000BFC50
+t1386615650
+s785488
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/Base.LinkFileList
+c0000000052A61362000000000000049F
+t1386615650
+s1183
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.o
+t1386615653
+s69388
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.o
+t1386615654
+s46068
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.o
+t1386615654
+s40356
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.o
+t1386615654
+s42284
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.o
+t1386615654
+s3180
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.o
+t1386615653
+s40584
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.o
+t1386615654
+s45252
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.o
+t1386615654
+s51716
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.o
+t1386615653
+s41728
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.o
+t1386615653
+s3244
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-97608B2A07EA48699E154FE9.sh
+c0000000052A61362000000000000002F
+t1386615650
+s47
+
+N/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-C730057C901240E7942764AA.sh
+c0000000052A613620000000000000103
+t1386615650
+s259
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app
+t1386615905
+s408
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app.dSYM
+t1386615853
+s102
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Base
+t1386615853
+s379752
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/CFSplashVC.nib
+t1386615905
+s136
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Default-568h@2x.png
+t1386615853
+s499566
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Default.png
+t1386615853
+s155325
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Default@2x.png
+t1386615853
+s456813
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Icon.png
+t1386615853
+s11594
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Icon@2x.png
+t1386615853
+s33380
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Info.plist
+t1386615650
+s774
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/PkgInfo
+t1386615650
+s8
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/en.lproj/InfoPlist.strings
+t1386615853
+s42
+
+N/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/libPods.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/lib/libSystem.B.dylib
+c000000005062231E000000000000D2A0
+t1348608798
+s53920
+
+N/usr/lib/system/libcache.dylib
+c00000000506223370000000000013870
+t1348608823
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052A4376A0000000000030250
+t1386493802
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005062231D0000000000017910
+t1348608797
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000050622335000000000001A130
+t1348608821
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c0000000052A4381F000000000000C2A0
+t1386493983
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000506223360000000000008CE0
+t1348608822
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052A43828000000000001D350
+t1386493992
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c00000000506223350000000000014F90
+t1348608821
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052A43838000000000000D790
+t1386494008
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052A43838000000000000C330
+t1386494008
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000050622337000000000000A080
+t1348608823
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052A437B400000000001F91C0
+t1386493876
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052A43828000000000001BC00
+t1386493992
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005062231E000000000008B580
+t1348608798
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052A437B400000000000569B0
+t1386493876
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005062231E0000000000070540
+t1348608798
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005062231E0000000000025620
+t1348608798
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052A43803000000000000C780
+t1386493955
+s51072
+
+N/usr/lib/system/libunc.dylib
+c000000005062232E000000000000D430
+t1348608814
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c0000000050622337000000000001BAA0
+t1348608823
+s113312
+
+N/var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.pch
+t1386615653
+s5341828
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFButton.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFImageView.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFLabel.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFObject.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFTableViewCell.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFTableViewController.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFViewController.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/CFAppDelegate.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.m
+r0
+
+CBuild AST from /nitin/Music\ App/Source\ code/Base/Base/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbc95b9135056b841^925e70145056b841^---0#1#1#--18"Check dependencies36"1B667672-9893-4823-9F0A-943E6466E5EE-
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/CFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308453.180455
+e408308453.827019
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.o
+x/nitin/Music App/Source code/Base/Base/Front end/CFAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/CFAppDelegate.m
+d/nitin/Music App/Source code/Base/Base/Front end/CFAppDelegate.h
+d/nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /nitin/Music App/Source code/Base/Base/Front end/CFAppDelegate.m194"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.o Base/Front\ end/CFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler50542ee54a56b841^31b7d3e54a56b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/CFAppDelegate.m0000000000000000^3319"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.o Base/Front\ end/CFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/CFAppDelegate.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.o36"7013CF7F-8091-4125-99CF-417B69CF64DF-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308454.119776
+e408308454.263573
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.o
+x/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFButton.m
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /nitin/Music App/Source code/Base/Base/Front end/Base classes/CFButton.m198"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.o Base/Front\ end/Base\ classes/CFButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler46ce1ee64a56b841^527d43e64a56b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFButton.m0000000000000000^3317"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.o Base/Front\ end/Base\ classes/CFButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFButton.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.o36"17CF97A3-2F4E-4028-B00D-3323AB92C941-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308454.085126
+e408308454.263571
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.o
+x/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFImageView.m
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /nitin/Music App/Source code/Base/Base/Front end/Base classes/CFImageView.m204"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.o Base/Front\ end/Base\ classes/CFImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler31ef15e64a56b841^0a8243e64a56b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFImageView.m0000000000000000^3335"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.o Base/Front\ end/Base\ classes/CFImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFImageView.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.o36"138C9363-8C0A-41D0-8CBD-958876A81920-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308454.265215
+e408308454.419890
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.o
+x/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFLabel.m
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFLabel.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /nitin/Music App/Source code/Base/Base/Front end/Base classes/CFLabel.m196"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.o Base/Front\ end/Base\ classes/CFLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler750444e64a56b841^f39277e64a56b841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFLabel.m0000000000000000^3311"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.o Base/Front\ end/Base\ classes/CFLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFLabel.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.o36"73B0FFE3-6641-4369-A848-D8E9A30417CC-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308454.265816
+e408308454.341576
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.o
+x/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFObject.m
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFObject.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /nitin/Music App/Source code/Base/Base/Front end/Base classes/CFObject.m198"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.o Base/Front\ end/Base\ classes/CFObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler522744e64a56b841^698b77e64a56b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFObject.m0000000000000000^3317"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.o Base/Front\ end/Base\ classes/CFObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFObject.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.o36"53558B9B-46D1-49DF-8A7F-7FD5BEF6CE77-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308453.772423
+e408308453.860661
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.o
+x/nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.m
+d/nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.m203"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.o Base/Front\ end/Classes/Splash/CFSplashVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler98dfc5e54a56b841^e353dce54a56b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Classes/Splash/CFSplashVC.m0000000000000000^3331"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.o Base/Front\ end/Classes/Splash/CFSplashVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.o36"4F4650E3-CAC6-4207-B438-C3172A17CB17-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308454.342929
+e408308454.476348
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.o
+x/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewCell.m
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewCell.m212"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.o Base/Front\ end/Base\ classes/CFTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc4ee57e64a56b841^58e5c6e64a56b841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFTableViewCell.m0000000000000000^3359"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.o Base/Front\ end/Base\ classes/CFTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFTableViewCell.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.o36"5E970EB5-F6C1-4FF2-9A75-DAD1F08CFF0E-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308453.862446
+e408308454.118282
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.o
+x/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.m
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.h
+o/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.m:47:2: warning: Potentially incomplete method implementation. [-W#warnings]
+o#warning Potentially incomplete method implementation.
+o ^
+o/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.m:54:2: warning: Incomplete method implementation. [-W#warnings]
+o#warning Incomplete method implementation.
+o ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.m224"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.o Base/Front\ end/Base\ classes/CFTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerafeedce54a56b841^06461ee64a56b841^-436"/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.m:47:2: warning: Potentially incomplete method implementation. [-W#warnings]#warning Potentially incomplete method implementation. ^/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFTableViewController.m:54:2: warning: Incomplete method implementation. [-W#warnings]#warning Incomplete method implementation. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@45"Potentially incomplete method implementation.-408308454#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@109"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFTableViewController.m0000000000000000^46#1#46#1#1019#0#18"#warning Directive--2@33"Incomplete method implementation.-408308454#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@109"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFTableViewController.m0000000000000000^53#1#53#1#1220#0#18"#warning Directive--0#0#1#-19%DVTDocumentLocation4@109"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFTableViewController.m0000000000000000^3395"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.o Base/Front\ end/Base\ classes/CFTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFTableViewController.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.o36"6EC71D88-7D0B-438F-A382-89EE0C2AE52D-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.o /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308453.828724
+e408308454.083643
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.o
+x/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFViewController.m
+d/nitin/Music App/Source code/Base/Base/Front end/Base classes/CFViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /nitin/Music App/Source code/Base/Base/Front end/Base classes/CFViewController.m214"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.o Base/Front\ end/Base\ classes/CFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler844ad4e54a56b841^2b6915e64a56b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Base%20classes/CFViewController.m0000000000000000^3365"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.o Base/Front\ end/Base\ classes/CFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.dia -c /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFViewController.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.o36"040CD954-B0B7-4AD3-B45D-D5B34BD1366F-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.o /nitin/Music\ App/Source\ code/Base/Base/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308453.179809
+e408308453.771043
+r1
+xCompileC
+xbuild/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.o
+x/nitin/Music App/Source code/Base/Base/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/main.m
+d/nitin/Music App/Source code/Base/Base/Front end/CFAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /nitin/Music App/Source code/Base/Base/main.m165"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.o Base/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere02f2ee54a56b841^2463c5e54a56b841^---0#0#1#-19%DVTDocumentLocation2@65"file://localhost/nitin/Music%20App/Source%20code/Base/Base/main.m0000000000000000^3243"CompileC build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.o Base/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -include /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch -MMD -MT dependencies -MF /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.d --serialize-diagnostics /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.dia -c /nitin/Music\ App/Source\ code/Base/Base/main.m -o /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.o36"392AC424-A004-4408-8044-8BECABC310F7-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CCompileXIB /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.xib
+s408308654.059629
+e408308705.776057
+r1
+xCompileXIB
+x/nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /nitin/Music App/Source code/Base/Base/Front end/Classes/Splash/CFSplashVC.xib56"CompileXIB Base/Front\ end/Classes/Splash/CFSplashVC.xib13610fae4b56b841^3d0fcee14b56b841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Front%20end/Classes/Splash/CFSplashVC.xib0000000000000000^770"CompileXIB Base/Front\ end/Classes/Splash/CFSplashVC.xib    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/CFSplashVC.nib /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.xib36"6AED11E3-A832-4808-868B-12CFE1CDD2C0-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CCopyStringsFile /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/en.lproj/InfoPlist.strings Base/en.lproj/InfoPlist.strings
+s408308653.874358
+e408308653.988588
+r1
+xCopyStringsFile
+x/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/en.lproj/InfoPlist.strings
+xBase/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy Base/en.lproj/InfoPlist.strings111"CopyStringsFile build/Debug-iphonesimulator/Base.app/en.lproj/InfoPlist.strings Base/en.lproj/InfoPlist.strings88f4dfad4b56b841^7f88fdad4b56b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/nitin/Music%20App/Source%20code/Base/Base/en.lproj/InfoPlist.strings0000000000000000^557"CopyStringsFile build/Debug-iphonesimulator/Base.app/en.lproj/InfoPlist.strings Base/en.lproj/InfoPlist.strings    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/en.lproj -- Base/en.lproj/InfoPlist.strings36"69AE740E-83B7-4343-B73B-6E3098D6F02E-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CCpResource Base/Resources/Images/Default-568h@2x.png build/Debug-iphonesimulator/Base.app/Default-568h@2x.png
+s408308653.957192
+e408308654.058152
+r1
+xCpResource
+xBase/Resources/Images/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/Base.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/Base.app/Default-568h@2x.png109"CpResource Base/Resources/Images/Default-568h@2x.png build/Debug-iphonesimulator/Base.app/Default-568h@2x.png2924f5ad4b56b841^f8e30eae4b56b841^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/nitin/Music%20App/Source%20code/Base/build/Debug-iphonesimulator/Base.app/Default-568h@2x.png00383ccddcffdf42^611"CpResource Base/Resources/Images/Default-568h@2x.png build/Debug-iphonesimulator/Base.app/Default-568h@2x.png    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /nitin/Music\ App/Source\ code/Base/Base/Resources/Images/Default-568h@2x.png /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app36"88F78F7A-9869-45A5-8415-678DFB7F5354-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CCpResource Base/Resources/Images/Default.png build/Debug-iphonesimulator/Base.app/Default.png
+s408308653.747191
+e408308653.872865
+r1
+xCpResource
+xBase/Resources/Images/Default.png
+xbuild/Debug-iphonesimulator/Base.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/Base.app/Default.png93"CpResource Base/Resources/Images/Default.png build/Debug-iphonesimulator/Base.app/Default.png795dbfad4b56b841^7176dfad4b56b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/nitin/Music%20App/Source%20code/Base/build/Debug-iphonesimulator/Base.app/Default.png00383ccddcffdf42^587"CpResource Base/Resources/Images/Default.png build/Debug-iphonesimulator/Base.app/Default.png    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /nitin/Music\ App/Source\ code/Base/Base/Resources/Images/Default.png /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app36"CF1FBF77-B91B-40EA-9D6F-013EC47FED2D-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CCpResource Base/Resources/Images/Default@2x.png build/Debug-iphonesimulator/Base.app/Default@2x.png
+s408308653.989991
+e408308654.075661
+r1
+xCpResource
+xBase/Resources/Images/Default@2x.png
+xbuild/Debug-iphonesimulator/Base.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/Base.app/Default@2x.png99"CpResource Base/Resources/Images/Default@2x.png build/Debug-iphonesimulator/Base.app/Default@2x.png5b94fdad4b56b841^8d6013ae4b56b841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/nitin/Music%20App/Source%20code/Base/build/Debug-iphonesimulator/Base.app/Default@2x.png00383ccddcffdf42^596"CpResource Base/Resources/Images/Default@2x.png build/Debug-iphonesimulator/Base.app/Default@2x.png    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /nitin/Music\ App/Source\ code/Base/Base/Resources/Images/Default@2x.png /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app36"FB7BFBC7-FEDE-4412-88AC-A32AC3783190-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CCpResource Base/Resources/Images/Icon.png build/Debug-iphonesimulator/Base.app/Icon.png
+s408308653.746542
+e408308653.895682
+r1
+xCpResource
+xBase/Resources/Images/Icon.png
+xbuild/Debug-iphonesimulator/Base.app/Icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/Debug-iphonesimulator/Base.app/Icon.png87"CpResource Base/Resources/Images/Icon.png build/Debug-iphonesimulator/Base.app/Icon.pngea3fbfad4b56b841^eb6fe5ad4b56b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/nitin/Music%20App/Source%20code/Base/build/Debug-iphonesimulator/Base.app/Icon.png00383ccddcffdf42^578"CpResource Base/Resources/Images/Icon.png build/Debug-iphonesimulator/Base.app/Icon.png    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /nitin/Music\ App/Source\ code/Base/Base/Resources/Images/Icon.png /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app36"87F0FF82-5D5C-4201-A3C8-8D2EC237E541-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CCpResource Base/Resources/Images/Icon@2x.png build/Debug-iphonesimulator/Base.app/Icon@2x.png
+s408308653.897201
+e408308653.955807
+r1
+xCpResource
+xBase/Resources/Images/Icon@2x.png
+xbuild/Debug-iphonesimulator/Base.app/Icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/Debug-iphonesimulator/Base.app/Icon@2x.png93"CpResource Base/Resources/Images/Icon@2x.png build/Debug-iphonesimulator/Base.app/Icon@2x.pngf8c5e5ad4b56b841^eab2f4ad4b56b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/nitin/Music%20App/Source%20code/Base/build/Debug-iphonesimulator/Base.app/Icon@2x.png00383ccddcffdf42^587"CpResource Base/Resources/Images/Icon@2x.png build/Debug-iphonesimulator/Base.app/Icon@2x.png    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /nitin/Music\ App/Source\ code/Base/Base/Resources/Images/Icon@2x.png /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app36"F51AC6C4-328B-426E-944E-036D97756348-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CGenerateDSYMFile /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app.dSYM /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Base
+s408308653.228043
+e408308653.737323
+r1
+xGenerateDSYMFile
+x/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app.dSYM
+x/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Base
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Generate /nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app.dSYM100"GenerateDSYMFile build/Debug-iphonesimulator/Base.app.dSYM build/Debug-iphonesimulator/Base.app/Basec87a3aad4b56b841^cac1bcad4b56b841^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/nitin/Music%20App/Source%20code/Base/build/Debug-iphonesimulator/Base.app.dSYM00383ccddcffdf42^598"GenerateDSYMFile build/Debug-iphonesimulator/Base.app.dSYM build/Debug-iphonesimulator/Base.app/Base    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Base -o /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app.dSYM36"3912D681-E65A-426A-A21D-6348F1D27059-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CLd /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Base normal i386
+s408308647.685680
+e408308653.218657
+r1
+xLd
+x/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Base
+xnormal
+xi386
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/Base.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/main.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFAppDelegate.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFSplashVC.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFViewController.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewController.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFImageView.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFButton.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFLabel.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFObject.o
+d/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/CFTableViewCell.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/nitin/Music App/Source code/Base/Pods/build/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Link /nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Base56"Ld build/Debug-iphonesimulator/Base.app/Base normal i3866da9afa74b56b841^8ffa37ad4b56b841^---0#0#1#--1430"Ld build/Debug-iphonesimulator/Base.app/Base normal i386    cd "/nitin/Music App/Source code/Base"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -LPods/build/Debug-iphonesimulator -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator -filelist /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/Base.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -lPods -Xlinker -dependency_info -Xlinker /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Objects-normal/i386/Base_dependency_info.dat -o /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Base36"175B0C92-CDF3-48EC-9EE4-5B51AA7555FB-
+bBDBFC9DB-EA5D-413E-A89D-52098F05D562
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-C730057C901240E7942764AA.sh
+s408309780.442871
+e408309781.681814
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-C730057C901240E7942764AA.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'132"PhaseScriptExecution Check\ Pods\ Manifest.lock build/Base.build/Debug-iphonesimulator/Base.build/Script-C730057C901240E7942764AA.sh810772145056b841^8acdb3155056b841^---0#0#1#--316"PhaseScriptExecution Check\ Pods\ Manifest.lock build/Base.build/Debug-iphonesimulator/Base.build/Script-C730057C901240E7942764AA.sh    cd "/nitin/Music App/Source code/Base"    /bin/sh -c \"/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-C730057C901240E7942764AA.sh\"36"189C1C88-0568-41F1-BA8B-60EC48BF3CF2-
+b2A8849FE-1960-4EFA-9CDC-D998F47462E2
+
+CPhaseScriptExecution Copy\ Pods\ Resources /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-97608B2A07EA48699E154FE9.sh
+s408309781.701781
+e408309786.613213
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/nitin/Music App/Source code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-97608B2A07EA48699E154FE9.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'127"PhaseScriptExecution Copy\ Pods\ Resources build/Base.build/Debug-iphonesimulator/Base.build/Script-97608B2A07EA48699E154FE9.sh0c3fb4155056b841^e1439d1a5056b841^-112"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.003(21%IDEActivityLogMessage2@28"building file list ... done-408309782#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-408309782#29#50#-0#-----2@33"total size is 0  speedup is 0.00-408309782#79#33#-0#-----0#0#1#--311"PhaseScriptExecution Copy\ Pods\ Resources build/Base.build/Debug-iphonesimulator/Base.build/Script-97608B2A07EA48699E154FE9.sh    cd "/nitin/Music App/Source code/Base"    /bin/sh -c \"/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Script-97608B2A07EA48699E154FE9.sh\"36"D27A9DBC-F214-4BA2-8B7D-C13B683826A8-
+b2A8849FE-1960-4EFA-9CDC-D998F47462E2
+
+CProcessInfoPlistFile /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Info.plist /nitin/Music\ App/Source\ code/Base/Base/Base-Info.plist
+s408308450.566644
+e408308450.630162
+r1
+xProcessInfoPlistFile
+x/nitin/Music App/Source code/Base/build/Debug-iphonesimulator/Base.app/Info.plist
+x/nitin/Music App/Source code/Base/Base/Base-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Process /nitin/Music App/Source code/Base/Base/Base-Info.plist89"ProcessInfoPlistFile build/Debug-iphonesimulator/Base.app/Info.plist Base/Base-Info.plistd42791e24a56b841^b455a1e24a56b841^---0#0#1#-19%DVTDocumentLocation2@74"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Base-Info.plist0000000000000000^656"ProcessInfoPlistFile build/Debug-iphonesimulator/Base.app/Info.plist Base/Base-Info.plist    cd "/nitin/Music App/Source code/Base"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /nitin/Music\ App/Source\ code/Base/Base/Base-Info.plist -genpkginfo /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app/Info.plist36"34CFA069-360E-419C-AC7C-CED0467BA20B-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CProcessPCH /nitin/Music\ App/Source\ code/Base/DerivedData/Base/Index/PrecompiledHeaders/Base-Prefix-efqrmqvwzpscvedtbwgdvvleeeuu_ast/Base-Prefix.pch.pch Base/Base-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.pch Base/Base-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408308451.027155
+e408308453.170393
+r1
+xProcessPCH
+x/var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.pch
+xBase/Base-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/nitin/Music App/Source code/Base/Base/Base-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Base/Base-Prefix.pch278"ProcessPCH /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.pch Base/Base-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler481707e34a56b841^30a02be54a56b841^---0#0#1#-19%DVTDocumentLocation2@74"file://localhost/nitin/Music%20App/Source%20code/Base/Base/Base-Prefix.pch0000000000000000^3382"ProcessPCH /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.pch Base/Base-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/nitin/Music App/Source code/Base"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-generated-files.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-own-target-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-all-target-headers.hmap -iquote /nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/Base-project-headers.hmap -I/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/include -I/nitin/Music\ App/Source\ code/Base/Pods/Headers -I/nitin/Music\ App/Source\ code/Base/Pods/Headers/AFNetworking -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources/i386 -I/nitin/Music\ App/Source\ code/Base/build/Base.build/Debug-iphonesimulator/Base.build/DerivedSources -F/nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.d -c /nitin/Music\ App/Source\ code/Base/Base/Base-Prefix.pch -o /var/folders/vt/ymf6n5bj085b30gw92lc44s00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Base-Prefix-aayivscgwhgzjxamcthlukojimkm/Base-Prefix.pch.pch36"ED7F3955-60CB-45EF-AED3-2B3EEDFEA618-
+b003CED3B-9FA8-41B9-A575-FAEC721AFCE0
+
+CTouch /nitin/Music\ App/Source\ code/Base/build/Debug-iphonesimulator/Base.app
+r0
+
