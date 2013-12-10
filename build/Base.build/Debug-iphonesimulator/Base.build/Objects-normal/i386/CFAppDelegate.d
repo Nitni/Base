@@ -26,4 +26,9 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpath.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpathInternals.h \
   /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Externals/Wonder\ XML/XmlParser.h \
-  /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.h
+  /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Splash/CFSplashVC.h \
+  /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Login/CFLoginViewController.h \
+  /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFViewController.h \
+  /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Classes/Common/CFContainerView.h \
+  /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFView.h \
+  /nitin/Music\ App/Source\ code/Base/Base/Front\ end/Base\ classes/CFLabel.h

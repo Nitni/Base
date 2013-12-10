@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F56B371185781E100E96DEB /* CFLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F56B36F185781E100E96DEB /* CFLoginViewController.m */; };
+		4F56B372185781E100E96DEB /* CFLoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F56B370185781E100E96DEB /* CFLoginViewController.xib */; };
+		4F56B3751857850600E96DEB /* CFContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F56B3741857850600E96DEB /* CFContainerView.m */; };
+		4F56B3771857852100E96DEB /* CFContainerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F56B3761857852100E96DEB /* CFContainerView.xib */; };
+		4F56B37A1857878100E96DEB /* navigationBar.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F56B3781857878100E96DEB /* navigationBar.png */; };
+		4F56B37B1857878100E96DEB /* navigationBar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F56B3791857878100E96DEB /* navigationBar@2x.png */; };
+		4F56B37E185787EE00E96DEB /* CFView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F56B37D185787EE00E96DEB /* CFView.m */; };
 		4F9CEEE518545BD500E91C38 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F9CEEE418545BD500E91C38 /* UIKit.framework */; };
 		4F9CEEE718545BD500E91C38 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F9CEEE618545BD500E91C38 /* Foundation.framework */; };
 		4F9CEEE918545BD500E91C38 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F9CEEE818545BD500E91C38 /* CoreGraphics.framework */; };
@@ -22,6 +29,12 @@
 		4F9CEF2818546AB000E91C38 /* CFLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F9CEF2718546AB000E91C38 /* CFLabel.m */; };
 		4F9CEF2B18546ABE00E91C38 /* CFObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F9CEF2A18546ABE00E91C38 /* CFObject.m */; };
 		4F9CEF2E18546AD400E91C38 /* CFTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F9CEF2D18546AD400E91C38 /* CFTableViewCell.m */; };
+		4F9ED5E81857966B00E98424 /* loginBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9ED5E61857966B00E98424 /* loginBG.png */; };
+		4F9ED5E91857966B00E98424 /* loginBG@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9ED5E71857966B00E98424 /* loginBG@2x.png */; };
+		4F9ED5EE18579BAC00E98424 /* fbSignInBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9ED5EA18579BAC00E98424 /* fbSignInBtn.png */; };
+		4F9ED5EF18579BAC00E98424 /* fbSignInBtn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9ED5EB18579BAC00E98424 /* fbSignInBtn@2x.png */; };
+		4F9ED5F018579BAC00E98424 /* twitterSignInBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9ED5EC18579BAC00E98424 /* twitterSignInBtn.png */; };
+		4F9ED5F118579BAC00E98424 /* twitterSignInBtn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F9ED5ED18579BAC00E98424 /* twitterSignInBtn@2x.png */; };
 		4FC2DAC218563E6400126381 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FC2DAC018563E6400126381 /* Icon.png */; };
 		4FC2DAC318563E6400126381 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FC2DAC118563E6400126381 /* Icon@2x.png */; };
 		4FC2DAC618563F3F00126381 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FC2DAC418563F3F00126381 /* Default-568h@2x.png */; };
@@ -40,6 +53,16 @@
 
 /* Begin PBXFileReference section */
 		486B5EE9981841739CBF4BB9 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F56B36E185781E100E96DEB /* CFLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFLoginViewController.h; sourceTree = "<group>"; };
+		4F56B36F185781E100E96DEB /* CFLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFLoginViewController.m; sourceTree = "<group>"; };
+		4F56B370185781E100E96DEB /* CFLoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CFLoginViewController.xib; sourceTree = "<group>"; };
+		4F56B3731857850600E96DEB /* CFContainerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFContainerView.h; sourceTree = "<group>"; };
+		4F56B3741857850600E96DEB /* CFContainerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFContainerView.m; sourceTree = "<group>"; };
+		4F56B3761857852100E96DEB /* CFContainerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CFContainerView.xib; sourceTree = "<group>"; };
+		4F56B3781857878100E96DEB /* navigationBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navigationBar.png; sourceTree = "<group>"; };
+		4F56B3791857878100E96DEB /* navigationBar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navigationBar@2x.png"; sourceTree = "<group>"; };
+		4F56B37C185787EE00E96DEB /* CFView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFView.h; sourceTree = "<group>"; };
+		4F56B37D185787EE00E96DEB /* CFView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFView.m; sourceTree = "<group>"; };
 		4F9CEEE018545BD500E91C38 /* Base.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Base.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F9CEEE418545BD500E91C38 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4F9CEEE618545BD500E91C38 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -67,6 +90,12 @@
 		4F9CEF2A18546ABE00E91C38 /* CFObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFObject.m; sourceTree = "<group>"; };
 		4F9CEF2C18546AD400E91C38 /* CFTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFTableViewCell.h; sourceTree = "<group>"; };
 		4F9CEF2D18546AD400E91C38 /* CFTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFTableViewCell.m; sourceTree = "<group>"; };
+		4F9ED5E61857966B00E98424 /* loginBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loginBG.png; sourceTree = "<group>"; };
+		4F9ED5E71857966B00E98424 /* loginBG@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loginBG@2x.png"; sourceTree = "<group>"; };
+		4F9ED5EA18579BAC00E98424 /* fbSignInBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fbSignInBtn.png; sourceTree = "<group>"; };
+		4F9ED5EB18579BAC00E98424 /* fbSignInBtn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fbSignInBtn@2x.png"; sourceTree = "<group>"; };
+		4F9ED5EC18579BAC00E98424 /* twitterSignInBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitterSignInBtn.png; sourceTree = "<group>"; };
+		4F9ED5ED18579BAC00E98424 /* twitterSignInBtn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitterSignInBtn@2x.png"; sourceTree = "<group>"; };
 		4FC2DAC018563E6400126381 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		4FC2DAC118563E6400126381 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 		4FC2DAC418563F3F00126381 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
@@ -188,6 +217,8 @@
 				4F9CEF2A18546ABE00E91C38 /* CFObject.m */,
 				4F9CEF2C18546AD400E91C38 /* CFTableViewCell.h */,
 				4F9CEF2D18546AD400E91C38 /* CFTableViewCell.m */,
+				4F56B37C185787EE00E96DEB /* CFView.h */,
+				4F56B37D185787EE00E96DEB /* CFView.m */,
 			);
 			path = "Base classes";
 			sourceTree = "<group>";
@@ -202,15 +233,15 @@
 		4F9CEF0C185462F100E91C38 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				4FC2DACD18575D4700126381 /* Add Clues */,
-				4FC2DACE18575D4700126381 /* Add Track */,
-				4FC2DACF18575D4700126381 /* Category Selection */,
-				4FC2DAD018575D4700126381 /* Login */,
-				4FC2DAD118575D4700126381 /* Menu */,
-				4FC2DAD218575D4700126381 /* Play track */,
-				4FC2DAD318575D4700126381 /* Track Selection */,
 				4F9CEF191854633400E91C38 /* Common */,
 				4F9CEF0D185462F100E91C38 /* Splash */,
+				4FC2DAD018575D4700126381 /* Login */,
+				4FC2DAD118575D4700126381 /* Menu */,
+				4FC2DACF18575D4700126381 /* Category Selection */,
+				4FC2DACE18575D4700126381 /* Add Track */,
+				4FC2DAD318575D4700126381 /* Track Selection */,
+				4FC2DAD218575D4700126381 /* Play track */,
+				4FC2DACD18575D4700126381 /* Add Clues */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -253,6 +284,9 @@
 		4F9CEF191854633400E91C38 /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				4F56B3731857850600E96DEB /* CFContainerView.h */,
+				4F56B3741857850600E96DEB /* CFContainerView.m */,
+				4F56B3761857852100E96DEB /* CFContainerView.xib */,
 			);
 			path = Common;
 			sourceTree = "<group>";
@@ -268,6 +302,14 @@
 		4FC2DABF18563B2900126381 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				4F9ED5EA18579BAC00E98424 /* fbSignInBtn.png */,
+				4F9ED5EB18579BAC00E98424 /* fbSignInBtn@2x.png */,
+				4F9ED5EC18579BAC00E98424 /* twitterSignInBtn.png */,
+				4F9ED5ED18579BAC00E98424 /* twitterSignInBtn@2x.png */,
+				4F9ED5E61857966B00E98424 /* loginBG.png */,
+				4F9ED5E71857966B00E98424 /* loginBG@2x.png */,
+				4F56B3781857878100E96DEB /* navigationBar.png */,
+				4F56B3791857878100E96DEB /* navigationBar@2x.png */,
 				4FC2DACB185645E100126381 /* Default@2x.png */,
 				4FC2DAC418563F3F00126381 /* Default-568h@2x.png */,
 				4FC2DAC518563F3F00126381 /* Default.png */,
@@ -328,6 +370,9 @@
 		4FC2DAD018575D4700126381 /* Login */ = {
 			isa = PBXGroup;
 			children = (
+				4F56B36E185781E100E96DEB /* CFLoginViewController.h */,
+				4F56B36F185781E100E96DEB /* CFLoginViewController.m */,
+				4F56B370185781E100E96DEB /* CFLoginViewController.xib */,
 			);
 			path = Login;
 			sourceTree = "<group>";
@@ -424,12 +469,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F56B3771857852100E96DEB /* CFContainerView.xib in Resources */,
 				4FC2DAC218563E6400126381 /* Icon.png in Resources */,
+				4F9ED5EE18579BAC00E98424 /* fbSignInBtn.png in Resources */,
+				4F9ED5F118579BAC00E98424 /* twitterSignInBtn@2x.png in Resources */,
 				4FC2DAC718563F3F00126381 /* Default.png in Resources */,
+				4F9ED5EF18579BAC00E98424 /* fbSignInBtn@2x.png in Resources */,
+				4F56B37A1857878100E96DEB /* navigationBar.png in Resources */,
+				4F9ED5F018579BAC00E98424 /* twitterSignInBtn.png in Resources */,
+				4F9ED5E81857966B00E98424 /* loginBG.png in Resources */,
 				4F9CEEEF18545BD500E91C38 /* InfoPlist.strings in Resources */,
+				4F56B372185781E100E96DEB /* CFLoginViewController.xib in Resources */,
 				4FC2DAC318563E6400126381 /* Icon@2x.png in Resources */,
+				4F9ED5E91857966B00E98424 /* loginBG@2x.png in Resources */,
 				4FC2DAC618563F3F00126381 /* Default-568h@2x.png in Resources */,
 				4FC2DACC185645E100126381 /* Default@2x.png in Resources */,
+				4F56B37B1857878100E96DEB /* navigationBar@2x.png in Resources */,
 				4F9CEF18185462F100E91C38 /* CFSplashVC.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -481,15 +536,18 @@
 				4F9CEF17185462F100E91C38 /* CFSplashVC.m in Sources */,
 				4F9CEF1C18546A5800E91C38 /* CFViewController.m in Sources */,
 				4F9CEF1F18546A6B00E91C38 /* CFTableViewController.m in Sources */,
+				4F56B3751857850600E96DEB /* CFContainerView.m in Sources */,
 				4FC2DAD918576B4700126381 /* CFHttpClient.m in Sources */,
 				4FC2DAEB18576C5B00126381 /* XmlHeaderHelper.m in Sources */,
 				4F9CEF2218546A8D00E91C38 /* CFImageView.m in Sources */,
 				4F9CEF2518546A9E00E91C38 /* CFButton.m in Sources */,
 				4FC2DAD618576B2B00126381 /* CFRequestManager.m in Sources */,
 				4FC2DAEC18576C5B00126381 /* XmlParser.m in Sources */,
+				4F56B37E185787EE00E96DEB /* CFView.m in Sources */,
 				4F9CEF2818546AB000E91C38 /* CFLabel.m in Sources */,
 				4F9CEF2B18546ABE00E91C38 /* CFObject.m in Sources */,
 				4F9CEF2E18546AD400E91C38 /* CFTableViewCell.m in Sources */,
+				4F56B371185781E100E96DEB /* CFLoginViewController.m in Sources */,
 				4FC2DAE918576C5B00126381 /* TypeMapping.m in Sources */,
 				4FC2DAEA18576C5B00126381 /* Util.m in Sources */,
 			);

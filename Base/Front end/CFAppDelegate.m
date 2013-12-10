@@ -7,8 +7,8 @@
 //
 
 #import "CFAppDelegate.h"
-
 #import "CFSplashVC.h"
+#import "CFLoginViewController.h"
 
 @implementation CFAppDelegate
 
@@ -19,8 +19,10 @@
     
     CFSplashVC *viewController = [[CFSplashVC alloc] initWithNibName:@"CFSplashVC" bundle:nil];
     self.navigationController = [[UINavigationController alloc] initWithRootViewController:viewController];
+    [self.navigationController setNavigationBarHidden:YES];
     self.window.rootViewController = self.navigationController;
     [self.window makeKeyAndVisible];
+    [NSTimer scheduledTimerWithTimeInterval:5.0 target:self selector:@selector(loadLoginScreen) userInfo:nil repeats:NO];
     return YES;
 }
 
@@ -49,6 +51,18 @@
 - (void)applicationWillTerminate:(UIApplication *)application
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+}
+
+#pragma mark -
+#pragma mark User defined methods
+#pragma mark -
+
+- (void)loadLoginScreen
+{
+    CFLoginViewController *login = [[CFLoginViewController alloc] initWithNibName:NSStringFromClass([CFLoginViewController class]) bundle:nil];
+    self.navigationController = [[UINavigationController alloc] initWithRootViewController:login];
+    [self.navigationController setNavigationBarHidden:YES];
+    self.window.rootViewController = self.navigationController;
 }
 
 @end

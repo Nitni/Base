@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CFContainerView.h"
 
 @interface CFViewController : UIViewController
+
+@property (nonatomic,strong) CFContainerView *containerView;
 
 @end
